@@ -1,0 +1,4 @@
+interface:
+  display_name: "Watermark Out"
+  short_description: "Remove reviewed AI notices from PDFs/DOCX"
+  default_prompt: "Use $watermark-out to remove a reviewed AI-generation notice from this PDF or DOCX file."
