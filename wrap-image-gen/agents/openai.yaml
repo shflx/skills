@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wrap Image Gen"
+  short_description: "Portable GPT Image CLI wrapper"
+  default_prompt: "Use $wrap-image-gen to generate an image with gpt-image-2 through the portable CLI wrapper."
